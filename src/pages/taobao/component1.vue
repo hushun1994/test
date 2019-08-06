@@ -4,7 +4,7 @@
       <li
         v-for="(item, index) in computedText"
         v-bind:key="index">
-        {{ item.text }}
+        {{ item.name.test }}
       </li>
     </ul>
 
