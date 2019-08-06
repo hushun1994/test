@@ -1,0 +1,48 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  font-size: 0;
+}
+
+#nav {
+  width: 100%;
+  height: 35px;
+  background: #eee;
+}
+.nav_in {
+  width: 1190px;
+  height: 100%;
+  margin: auto;
+}
+.nav_in ul {
+  margin: 0;
+  padding: 0;
+}
+/* .nav_l {
+  display: inline-block;
+  width: 300px;
+  height: 100%;
+}
+.nav_r {
+  display: inline-block;
+  width: 600px;
+  height:100%;
+  float: right;
+}
+.nav_l ul {
+  list-style-type: none;
+}
+.nav_l li {
+  display: inline-block;
+  height: 100%;
+  line-height: 35px;
+} */
+#container {
+  font-size: 25px;
+  color: blue;
+}
+
+#bottom {
+  font-size: 30px;
+  color: red;
+}

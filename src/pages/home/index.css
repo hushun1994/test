@@ -1,0 +1,9 @@
+.home {
+  font-size: 30px;
+  display: flex;
+}
+
+.home .btn {
+  color: red;
+  background: blue;
+}
